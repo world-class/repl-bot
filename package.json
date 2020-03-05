@@ -1,0 +1,16 @@
+{
+  "name": "repl-bot",
+  "version": "1.0.0",
+  "description": "Bot for REPL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Balbi",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/events-api": "^2.3.2",
+    "@slack/interactive-messages": "^1.5.0",
+    "@slack/web-api": "^5.8.0"
+  }
+}
